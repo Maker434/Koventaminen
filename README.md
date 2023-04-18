@@ -1,3 +1,3 @@
 # Koventaminen
 
-HUOM! Muista painaa (more pages) painiketta ladatksesi lisää sivuja
+HUOM! Muista painaa (More Pages) painiketta ladatksesi lisää sivuja pdf:n sisällä
